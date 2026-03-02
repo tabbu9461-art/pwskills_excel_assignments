@@ -17,3 +17,5 @@ Category-wise Performence
 To analyze sales data andd present insights in a clean and interactive dashboard formate.
 ## Files
 - Excel Dashboard(.xlsx)
+![Dashboard](Screenshot 2026-03-02
+223421.png)
